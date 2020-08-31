@@ -1,0 +1,65 @@
+#Intro-section
+{
+  background-color: #e4e4e4;
+  padding: 5% 10%;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+}
+
+#Quick-roll-section
+{
+  padding: 5% 10%;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+}
+
+a{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding: 10%;
+}
+
+h3{
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding: 10%;
+}
+
+.card
+{
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #e4e4e4;
+  width:70%;
+  margin: 0 auto 0 auto;
+}
+.logo-image
+{
+  width:75%;
+}
+
+.d20-image
+{
+  width: 25%;
+  margin: 0 auto 0 auto;
+  border-radius: 100%;
+}
+.d20-image:hover
+{
+  background-color: white;
+}
+
+.d20-res{
+  font-size: 2rem;
+  font-weight: bold;
+
+
+}
+
+.navbar-brand{
+  font-family: 'Righteous', cursive;
+  font-size: 2.5rem;
+}
